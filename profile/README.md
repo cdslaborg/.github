@@ -1,4 +1,4 @@
 # The Computational Data Science Lab
 The CDSLab strives to make Data Science learning and research as simple as possible (but not simpler).
 
-For information about joining the lab or any of the open-srouce projects maintained by the @cdslaborg, please contact the PI [Dr. Amir Shahmoradi](https://github.com/shahmoradi).
+For information about joining the lab or any of the open-source projects maintained by the [github@cdslaborg](https://github.com/cdslaborg), please contact the PI [Dr. Amir Shahmoradi](https://github.com/shahmoradi).
